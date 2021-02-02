@@ -1,2 +1,4 @@
 # hello-world
-Bidding greeting to the world
+Bidding greetings to the world
+
+I enjoy reading, crafting, and video games
