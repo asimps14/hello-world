@@ -1,4 +1,4 @@
 # hello-world
 Bidding greetings to the world
 
-I am completing a tutorial for COSC 381
+I enjoy reading, crafting, and video games
